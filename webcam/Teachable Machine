@@ -4,7 +4,13 @@ Teachable Machine앱을 이용해 웹캠을 통하여 실시간으로 객체를 
 # 필요한 라이브러리 설치
 pip install -r requirements.txt
 
-# 추후 
+# 실행 방법
+python app.py
+
+# 추후 추가 예정 사항
+- 데이터 수집
+- 감정 표현, 색상 분류, 제스처
+- 여러 클래스 추가 ex(물체, 사람 행동, 음식 등)
 
 # 주의사항 확인
 - 3.7이상 Python버전 필요
