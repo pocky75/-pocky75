@@ -15,7 +15,7 @@ vscode에 있는 컴파일러를 통하여 AI챗봇과 간단한 대화할 수 �
 4. 게임 시작 후 space키를 누르면 게임이 시작됩니다.
 
 # Pygame을 실행하기위한 라이브러리 설치
-pip install pygame
+pip install -r requirements.txt
 
 # 게임 실행
 python app01.py
