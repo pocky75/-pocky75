@@ -17,7 +17,7 @@ vscode에 있는 컴파일러를 통하여 AI챗봇과 간단한 대화할 수 �
 👉 pip install -r requirements.txt
 
 # 게임 실행
-👉 python app01.py
+👉 터미널에서 python app01.py
 ![image](https://github.com/user-attachments/assets/132e0749-c137-4f14-a70f-e69c607feb7b)
 
 # 실행 화면
